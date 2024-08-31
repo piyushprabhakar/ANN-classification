@@ -1,0 +1,24 @@
+tensorflow==2.15.0
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
+
+# Run below code to create the conda library inside the application
+#conda create -p venv python==3.11 -y
+# To activate the conda library - run "conda activate venv/"
+
+#To install the library from requirements file run below code
+#pip install -r requirements.txt
+
+#pip install ipykernel
+
+#To run app.py with streamlit run below
+# streamlit run app.py
+
+'''
+Note : Please make sure that the same python version is used to generate modal file and run app.py
+'''
